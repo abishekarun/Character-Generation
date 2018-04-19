@@ -1,6 +1,6 @@
 ## Character RNN - Pride & Prejudice
 
-In this project, we try to train a Character RNN on Pride & Prejudice book.
+In this project, we try to train a Character level language model using RNN on Pride & Prejudice book.
 
 The Jupyter notebook with standard cnn model can be found [here](https://github.com/abishekarun/Character-RNN/Character-RNN.ipynb).
 
