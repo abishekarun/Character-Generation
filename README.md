@@ -2,7 +2,7 @@
 
 In this project, we try to train a Character level language model using RNN on Pride & Prejudice book.
 
-The Jupyter notebook with standard rnn model can be found [here](https://github.com/abishekarun/Character-RNN/Character-RNN.ipynb).
+The Jupyter notebook with standard rnn model can be found [here](https://nbviewer.jupyter.org/github/abishekarun/Character-RNN/Character-RNN.ipynb).
 
 The resources that helped me are:
 
